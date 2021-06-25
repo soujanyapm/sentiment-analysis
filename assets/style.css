@@ -1,0 +1,156 @@
+.main-div{
+background-color:#152036;
+padding:20px;
+font-family:sans-serif
+}
+
+
+.main-heading{
+text-align :left;
+color:#49c8e6;
+margin-bottom: 0px;
+padding:15px;
+padding-left:2%;
+font-size:36px
+}
+
+.pie-chart-div{
+border-radius: 10px;
+
+color:lightblue;
+background-color: #1b2a47;
+margin-bottom:20px;
+height:47vh;
+#"box-shadow": "rgb(186 218 212 / 50%) 0px 0px 17px 0px",                              
+}
+
+.reviews-dropdown-div{
+border-radius: 10px;
+
+color:white;
+background-color:#1b2a47;
+margin-bottom:20px;
+height:47vh;
+#"box-shadow": "rgb(186 218 212 / 50%) 0px 0px 17px 0px",
+}
+
+.wordscloud-div{
+border-radius: 10px;
+
+color:white;
+background-color: #1b2a47;
+margin-bottom:20px;
+height:47vh;
+#"box-shadow": "rgb(186 218 212 / 50%) 0px 0px 17px 0px",
+}
+
+.review-textarea-div{
+border-radius: 10px;
+
+color:white;
+background-color:#1b2a47;
+margin-bottom:20px;
+height:47vh;
+#"box-shadow": "rgb(186 218 212 / 50%) 0px 0px 17px 0px",
+}
+
+
+.wordscloud-img{
+width:500;
+height:282;
+margin-top:50;
+margin-left:45
+}
+
+.review-textarea{
+width:84%;
+height:147px;
+margin-top:36px;
+margin-left:59px;
+border-radius:10px;
+background-color:#1b2a47;
+color:#8f98a0;
+outline:none;
+font-weight:500;
+border:2px solid #8f98a0;
+}
+
+.find-review-btn{
+width:43%;
+color:#00b7e3;
+background-color:#1b2a47;
+border:2px solid #00b7e3
+}
+
+.find-review-btn:hover{
+color:white;
+background-color:#00b7e3;
+}
+
+.find-review-btn:active{
+color:white;
+background-color:#00b7e3;
+
+}
+
+.find-review-btn:focus{
+color:white;
+background-color:#00b7e3;
+
+}
+#review-dropdown .Select-control{
+background-color:#1b2a47;
+border:2px solid #8f98a0;
+width:90%;
+margin:auto;
+top:22px;
+height:56px;
+}
+
+#review-dropdown .Select-menu-outer{
+width:90%;
+top:141%;
+margin-left:36px
+}
+
+#review-dropdown .Select-menu-outer div{
+background-color:#1b2a47;
+
+}
+
+
+#review-dropdown .VirtualizedSelectOption{
+border-bottom:1px solid  #8f98a0;
+color:#8f98a0;
+height:auto !important;
+
+
+}
+
+
+#review-dropdown .Select-value-label{
+color:#8f98a0
+}
+
+
+#dd-output-container{
+padding-top: 10%;
+text-align: center;
+font-size: 25px;
+}
+
+#review-dropdown .Select-placeholder{
+color:#8f98a0
+}
+
+::placeholder { 
+  color: #8f98a0; 
+  opacity: 1; 
+}
+
+.icon-style {
+  color: #ff7a59;
+  font-size:50px;
+  padding-left: 25px;
+  padding-top:20px
+}

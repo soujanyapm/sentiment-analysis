@@ -1,0 +1,34 @@
+.homepage-main-div
+{
+width: 100%;
+    float: left;
+    height: 100%;
+    /* padding: 7em 0 0; */
+    position: fixed;
+    top: 0;
+    /* opacity: .8; */
+    background-color: #131348; 
+   
+   background-repeat:no-repeat
+}
+
+.home-heading{
+color:#00b7e3
+}
+
+.content{
+color:white;
+margin-top:11%;
+padding-left:7%;
+}
+
+.get-started-btn{
+width:50%;
+color:white;
+font-weight:500;
+background-color: #d94d2b;
+border-radius:23px;
+padding:11px;
+font-size:
+
+}
